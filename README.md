@@ -24,3 +24,7 @@ I am an academically-focused 👨‍🎓 autodidact 📚 who enjoys blending aca
 
 #### My Personal Roadmap to distributed systems expertise
 [![roadmap.sh](https://roadmap.sh/card/wide/66c23a94837d383f4ae434ce?variant=dark)](https://roadmap.sh)
+
+[View Distributed Systems Roadmap](https://roadmap.sh/r/embed?id=66fd6de0366148ee280024f9)
+
+

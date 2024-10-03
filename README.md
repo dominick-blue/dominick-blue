@@ -23,8 +23,12 @@ I am an academically-focused 👨‍🎓 autodidact 📚 who enjoys blending aca
 - ⚡ Fun fact: I have taken the personal challenge to operate my life in parallel by dual-enrolling in a BS + MS program (see below) while continuing to develop my experience working on real-world systems.
 
 #### My Personal Roadmap to distributed systems expertise
-[![roadmap.sh](https://roadmap.sh/card/wide/66c23a94837d383f4ae434ce?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66c23a94837d383f4ae434ce?variant=dark&roadmaps=66fd6c0d366148ee28ffa23c%2C66fd6de0366148ee280024f9)](https://roadmap.sh)
 
-[View Distributed Systems Roadmap](https://roadmap.sh/r/embed?id=66fd6de0366148ee280024f9)
+[View Distributed Systems - Software Engineer Roadmap](https://roadmap.sh/r/distributed-systems---software-engineer)
+
+[View Breaking into Distributed Systems](https://roadmap.sh/r/breaking-into-distributed-systems)
+
+
 
 
